@@ -1,0 +1,42 @@
+c:\users\branimir\documents\visual studio 2015\Projects\BCNF\BCNF\bin\Debug\BCNF.exe.config
+c:\users\branimir\documents\visual studio 2015\Projects\BCNF\BCNF\bin\Debug\BCNF.exe
+c:\users\branimir\documents\visual studio 2015\Projects\BCNF\BCNF\bin\Debug\BCNF.pdb
+c:\users\branimir\documents\visual studio 2015\Projects\BCNF\BCNF\obj\Debug\BCNF.csprojResolveAssemblyReference.cache
+c:\users\branimir\documents\visual studio 2015\Projects\BCNF\BCNF\obj\Debug\MainWindow.g.cs
+c:\users\branimir\documents\visual studio 2015\Projects\BCNF\BCNF\obj\Debug\App.g.cs
+c:\users\branimir\documents\visual studio 2015\Projects\BCNF\BCNF\obj\Debug\BCNF_MarkupCompile.cache
+c:\users\branimir\documents\visual studio 2015\Projects\BCNF\BCNF\obj\Debug\BCNF_MarkupCompile.lref
+c:\users\branimir\documents\visual studio 2015\Projects\BCNF\BCNF\obj\Debug\MainWindow.baml
+c:\users\branimir\documents\visual studio 2015\Projects\BCNF\BCNF\obj\Debug\BCNF.g.resources
+c:\users\branimir\documents\visual studio 2015\Projects\BCNF\BCNF\obj\Debug\BCNF.Properties.Resources.resources
+c:\users\branimir\documents\visual studio 2015\Projects\BCNF\BCNF\obj\Debug\BCNF.csproj.GenerateResource.Cache
+c:\users\branimir\documents\visual studio 2015\Projects\BCNF\BCNF\obj\Debug\BCNF.exe
+c:\users\branimir\documents\visual studio 2015\Projects\BCNF\BCNF\obj\Debug\BCNF.pdb
+D:\My documents\Stvari\Faks\C++ vjezbe\projekt_baze c#\BCNF\bin\Debug\BCNF.exe.config
+D:\My documents\Stvari\Faks\C++ vjezbe\projekt_baze c#\BCNF\bin\Debug\BCNF.exe
+D:\My documents\Stvari\Faks\C++ vjezbe\projekt_baze c#\BCNF\bin\Debug\BCNF.pdb
+D:\My documents\Stvari\Faks\C++ vjezbe\projekt_baze c#\BCNF\obj\Debug\BCNF.csprojResolveAssemblyReference.cache
+D:\My documents\Stvari\Faks\C++ vjezbe\projekt_baze c#\BCNF\obj\Debug\MainWindow.g.cs
+D:\My documents\Stvari\Faks\C++ vjezbe\projekt_baze c#\BCNF\obj\Debug\App.g.cs
+D:\My documents\Stvari\Faks\C++ vjezbe\projekt_baze c#\BCNF\obj\Debug\BCNF_MarkupCompile.cache
+D:\My documents\Stvari\Faks\C++ vjezbe\projekt_baze c#\BCNF\obj\Debug\BCNF_MarkupCompile.lref
+D:\My documents\Stvari\Faks\C++ vjezbe\projekt_baze c#\BCNF\obj\Debug\MainWindow.baml
+D:\My documents\Stvari\Faks\C++ vjezbe\projekt_baze c#\BCNF\obj\Debug\BCNF.g.resources
+D:\My documents\Stvari\Faks\C++ vjezbe\projekt_baze c#\BCNF\obj\Debug\BCNF.Properties.Resources.resources
+D:\My documents\Stvari\Faks\C++ vjezbe\projekt_baze c#\BCNF\obj\Debug\BCNF.csproj.GenerateResource.Cache
+D:\My documents\Stvari\Faks\C++ vjezbe\projekt_baze c#\BCNF\obj\Debug\BCNF.exe
+D:\My documents\Stvari\Faks\C++ vjezbe\projekt_baze c#\BCNF\obj\Debug\BCNF.pdb
+C:\Users\Branimir\Documents\Visual Studio 2015\Projects\projekt_baze c#\BCNF\obj\Debug\BCNF.csprojResolveAssemblyReference.cache
+C:\Users\Branimir\Documents\Visual Studio 2015\Projects\projekt_baze c#\BCNF\obj\Debug\MainWindow.g.cs
+C:\Users\Branimir\Documents\Visual Studio 2015\Projects\projekt_baze c#\BCNF\obj\Debug\App.g.cs
+C:\Users\Branimir\Documents\Visual Studio 2015\Projects\projekt_baze c#\BCNF\obj\Debug\MainWindow.baml
+C:\Users\Branimir\Documents\Visual Studio 2015\Projects\projekt_baze c#\BCNF\obj\Debug\BCNF.csproj.GenerateResource.Cache
+C:\Users\Branimir\Documents\Visual Studio 2015\Projects\projekt_baze c#\BCNF\bin\Debug\Primary Key Finder.exe.config
+C:\Users\Branimir\Documents\Visual Studio 2015\Projects\projekt_baze c#\BCNF\bin\Debug\Primary Key Finder.exe
+C:\Users\Branimir\Documents\Visual Studio 2015\Projects\projekt_baze c#\BCNF\bin\Debug\Primary Key Finder.pdb
+C:\Users\Branimir\Documents\Visual Studio 2015\Projects\projekt_baze c#\BCNF\obj\Debug\Primary Key Finder_MarkupCompile.cache
+C:\Users\Branimir\Documents\Visual Studio 2015\Projects\projekt_baze c#\BCNF\obj\Debug\Primary Key Finder_MarkupCompile.lref
+C:\Users\Branimir\Documents\Visual Studio 2015\Projects\projekt_baze c#\BCNF\obj\Debug\Primary Key Finder.g.resources
+C:\Users\Branimir\Documents\Visual Studio 2015\Projects\projekt_baze c#\BCNF\obj\Debug\PK_Finder.Properties.Resources.resources
+C:\Users\Branimir\Documents\Visual Studio 2015\Projects\projekt_baze c#\BCNF\obj\Debug\Primary Key Finder.exe
+C:\Users\Branimir\Documents\Visual Studio 2015\Projects\projekt_baze c#\BCNF\obj\Debug\Primary Key Finder.pdb
